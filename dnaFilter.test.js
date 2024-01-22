@@ -1,5 +1,3 @@
-// dnaFilter.test.js
-
 const filterDNA = require('./dnaFilter');
 
 test('elimina bases no canónicas y distingue mayúsculas y minúsculas', () => {

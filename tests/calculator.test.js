@@ -15,10 +15,10 @@ test('multiplies a * b', () => {
 })
 
 test('divides a / b', () => {
-    // Consider decimals
+ 
 })
 
 test('Raises to power a ^ b', () => {
-    //
+   
 })
 
